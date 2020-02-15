@@ -4,3 +4,5 @@
 4. HTML/CSS; basic skills in JS,pascal(lazarus)
 5. There are some code example https://github.com/KlimSalihov/code-example/blob/master/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%201.docx
 6. No experience.
+7. Took courses at codeacademy.com, learn.javascript.com.
+8. English - b1+.
